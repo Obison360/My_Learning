@@ -13,7 +13,7 @@ print('hello'[4])
 #print('hello'[5]) #Index Error since there isn't no index 5
 print('hello'[:2])
 
-#Slicing: Doesn't work with the index, It starts from 1
+#Slicing: work with the index, It starts from 1
 print('hello'[-2])
 print('hello'[-4])
 
